@@ -1,4 +1,3 @@
-# fexch
+# fexch: the world's first horizontal fetch script!
 
-the world's first horizontal fetch script
-its a cute fox idk. output text is small
+its a cute fox idk. output text is very minimal, slightly smaller than pfetch if you care about that
